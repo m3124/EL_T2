@@ -4,7 +4,7 @@
 This README provides an overview of key sales performance metrics with visual dashboards.
 
 ## Overall Sales Performance
-![Overall Sales Performance](Screenshot-2025-09-24-193510.jpg)
+![Overall Sales Performance](Screenshot 2025-09-24 193410.png)
 
 ## Top 10 Products by Profit
 ![Top 10 Products by Profit](Screenshot-2025-09-24-193410.jpg)
