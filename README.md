@@ -13,4 +13,4 @@ This README provides an overview of key sales performance metrics with visual da
 ![image alt](https://github.com/m3124/EL_T2/blob/be05cea7d7ed01129bfe3c497f4e5fa38cf0a88e/Screenshot%202025-09-24%20193428.png)
 
 ## Product Stats
-![image alt](https://github.com/m3124/EL_T2/blob/e7d1d00e736e504690810b3ad9aff8d6dc5338d0/Screenshot%202025-09-24%20193410.png)
+![image alt](https://github.com/m3124/EL_T2/blob/0eaeab764566e560185924ab2c5e456ec90c2a1d/Screenshot%202025-09-24%20193447.png)
